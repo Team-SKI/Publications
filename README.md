@@ -4,6 +4,7 @@ Supporting Information of publications.
 ```
 └── Kinome-wide profiling prediction of small molecules
 └── Profiling prediction of kinase inhibitors
+└── Mol2vec
 ```
 These projects were supported by [BioMed X](http://bio.mx/) Innovation Center, Heidelberg
 
