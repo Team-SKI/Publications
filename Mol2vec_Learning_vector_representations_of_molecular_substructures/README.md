@@ -1,6 +1,6 @@
 # Mol2vec  
 
-Sabrina Jaeger, Simone Fulle, and Samo Turk. 
+Sabrina Jaeger, Simone Fulle, and Samo Turk.  
 *Unsupervised Machine Learning Approach with Chemical Intuition.* **submitted.**  
 Preprint available on [chemrxiv](https://chemrxiv.org/articles/Mol2vec_Unsupervised_Machine_Learning_Approach_with_Chemical_Intuition/5513581)
 
