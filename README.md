@@ -6,7 +6,7 @@ Kinase profiling studies
 └── Kinome-wide profiling prediction of small molecules
 └── Profiling prediction of kinase inhibitors
 
-Featurizations of molecules (via natural language processing techniques)
+Featurizations of molecules via natural language processing techniques
 └── Mol2vec_Learning_vector_representations_of_molecular_substructures
 ```
 These projects were supported by [BioMed X](http://bio.mx/) Innovation Center, Heidelberg
