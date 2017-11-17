@@ -9,3 +9,4 @@ Code of Mol2vec module can be obtained and installed via:
 git clone https://github.com/samoturk/mol2vec  
 pip install -e mol2vec  
 ```
+
