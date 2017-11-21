@@ -1,12 +1,8 @@
 # Mol2vec  
 
 Authors: Sabrina Jaeger, Simone Fulle, and Samo Turk.  
-*Unsupervised Machine Learning Approach with Chemical Intuition.* submitted.  
-Preprint available on [chemrxiv](https://chemrxiv.org/articles/Mol2vec_Unsupervised_Machine_Learning_Approach_with_Chemical_Intuition/5513581)
+*Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition.* submitted.  
+Preprint available on [ChemRxiv](https://chemrxiv.org/articles/Mol2vec_Unsupervised_Machine_Learning_Approach_with_Chemical_Intuition/5513581)
 
-Code of Mol2vec module can be obtained and installed via:  
-```
-git clone https://github.com/samoturk/mol2vec  
-pip install -e mol2vec  
-```
+Code of Mol2vec module can be obtained via [Mol2vec repository](https://github.com/samoturk/mol2vec) and documentation is available on [Read the Docs](http://mol2vec.readthedocs.io).  
 
