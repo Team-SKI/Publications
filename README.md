@@ -25,5 +25,5 @@ These projects were supported by [BioMed X](http://bio.mx/) Innovation Center, H
 *Turk, S., Merget, B., Rippmann, F, Fulle, S., J. Chem. Inf. Model. DOI: 10.1021/acs.jcim.7b00298 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00298).*
 
  * [**Mol2vec: Unsupervised machine learning approach with chemical intuition**](Mol2vec_Learning_vector_representations_of_molecular_substructures/)  
-*Jaeger, S.,Fulle, S., Turk, S., submitted. [Preprint](https://chemrxiv.org/articles/Mol2vec_Unsupervised_Machine_Learning_Approach_with_Chemical_Intuition/5513581).* 
+*Jaeger, S.,Fulle, S., Turk, S., J. Chem. Inf. Model. DOI: 10.1021/acs.jcim.7b00616 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616).* 
 
