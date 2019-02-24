@@ -30,7 +30,7 @@ These projects were supported by [BioMed X](http://bio.mx/) Innovation Center, H
  * [**Mol2vec: Unsupervised machine learning approach with chemical intuition**](Mol2vec_Learning_vector_representations_of_molecular_substructures/)  
 *Jaeger, S.,Fulle, S., Turk, S., J. Chem. Inf. Model. DOI: 10.1021/acs.jcim.7b00616 [Link](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616).* 
 
- * [**Modelling_DFG-out_structures**]
- Modelling conformational flexibility of kinases in inactive states
+ * [**Modelling_DFG-out_structures**]  
+ Modelling conformational flexibility of kinases in inactive states  
 *Schwarz, D., Merget, B., Deane, C., Fulle, S. submitted 
 
