@@ -1,0 +1,21 @@
+# Structural class of template structures
+
+P-loop collapsed
+ 4QQ5_A_templ.pdb: 'aC-helix in' 
+ 2G2H_B_templ.pdb: 'aC-helix inter'
+ 5HX6_A_templ.pdb: 'aC-helix out'
+
+P-loop stretched
+ 3VHK_A_templ.pdb: 'aC-helix in'
+ 4PMM_A_templ.pdb: 'aC-helix inter'
+ 2W5B_A_templ.pdb: 'aC-helix out'
+
+A-loop 
+ 3V5Q_A_templ.pdb: 'closed type 2'
+ 2HZI_A_templ.pdb: 'open DFG-out'
+ 3BEA_A_templ.pdb: 'closed A-under-P'
+
+
+# Template structures of the C-lobe
+ABL1: 2F4J_A.pdb 
+
