@@ -31,5 +31,5 @@ These projects were supported by [BioMed X](http://bio.mx/) Innovation Center, H
 *Jaeger, S., Fulle, S., Turk, S., J. Chem. Inf. Model., 2018, 58, 27-35. [Link](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616).*
 
  * [**Modelling conformational flexibility of kinases in inactive states**](Modelling_DFG-out_structures)  
-*Schwarz, D., Merget, B., Deane, C., Fulle, S. submitted.*
+*Schwarz, D., Merget, B., Deane, C., Fulle, S., submitted.*
 
