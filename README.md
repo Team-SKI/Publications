@@ -25,7 +25,7 @@ These projects were supported by [BioMed X](http://bio.mx/) Innovation Center, H
 *Merget, B., Turk, S., Eid, S., Rippmann, F., Fulle, S., J. Med. Chem., 2017, 60, 474−485. [Link](http://pubs.acs.org/doi/10.1021/acs.jmedchem.6b01611).*
 
  * [**Coupling matched molecular pairs with machine learning for virtual compound optimization**](Coupling_MMPs_with_ML/)  
-*Turk, S., Merget, B., Rippmann, F, Fulle, S., J. Chem. Inf. Model., 2017 57, 3079-3085. [Link](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00298).*
+*Turk, S., Merget, B., Rippmann, F, Fulle, S., J. Chem. Inf. Model., 2017, 57, 3079-3085. [Link](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00298).*
 
  * [**Mol2vec: Unsupervised machine learning approach with chemical intuition**](Mol2vec_Learning_vector_representations_of_molecular_substructures/)  
 *Jaeger, S., Fulle, S., Turk, S., J. Chem. Inf. Model., 2018, 58, 27-35. [Link](http://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616).*
