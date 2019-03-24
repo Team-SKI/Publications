@@ -3,8 +3,8 @@ Supporting Information of publications.
 
 ```
 Kinase profiling studies  
-└── Kinome-wide profiling prediction of small molecules
 └── Profiling prediction of kinase inhibitors
+└── Kinome-wide profiling prediction of small molecules
 
 Compound optimization tools
 └── Coupling_MMPs_with_ML
